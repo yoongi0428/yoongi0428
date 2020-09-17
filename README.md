@@ -6,7 +6,7 @@
   - Provide solid recommendation to new comming users/items (inductive GNN)
   - ⚽️ 🎬 🎧 🧘🏻 ☕️
 
-[![Yoonki Stats](https://github-readme-stats.vercel.app/api?username=yoongi0428)](https://github.com/anuraghazra/github-readme-stats)
+[![Yoonki Stats](https://github-readme-stats.vercel.app/api?username=yoongi0428&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yoonki-j.info/)](https://yoonki-j.info/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoon-ki-jeong-8aa920158/)](https://www.linkedin.com/in/yoon-ki-jeong-8aa920158/)
