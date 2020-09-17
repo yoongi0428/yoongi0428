@@ -1,4 +1,15 @@
-### Hi there 👋
+# I am a ...
+  - Master Student at Sungkyunkwan University, South Korea. (Mar. 2019 - Present)
+# I have interest in ...
+  - Improving quality of recommendation in offline settings.
+  - Bridging the gap between offline and online system.
+  - Provide solid recommendation to new comming users/items (inductive GNN)
+
+[![Yoonki Stats](https://github-readme-stats.vercel.app/api?username=yoongi0428)](https://github.com/anuraghazra/github-readme-stats)
+
+[Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yoonki-j.info/)](https://yoonki-j.info/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoon-ki-jeong-8aa920158/)](https://www.linkedin.com/in/yoon-ki-jeong-8aa920158/)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/Yoonkey.Jeong)](https://www.facebook.com/Yoonkey.Jeong)
 
 <!--
 **yoongi0428/yoongi0428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
