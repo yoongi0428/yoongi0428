@@ -1,8 +1,8 @@
 ### Hello world! This is Yoonki Jeong from South Korea!
-  - I'm currently a master student at Sungkyunkwan University, South Korea. (Mar. 2019 - Feb. 2021)
+  - I'm currently a research engineer @ Naver Corp.
+  - I completed a master's degree @ Sungkyunkwan University, South Korea. (Mar. 2019 - Feb. 2021)
   - I'm interested in various technologies that can bridge the gap between areas far from and close to them.
   - I'm specifically interested in NLP, IR and RecSys.
-  - I'm looking to collaborate with others on building integrated experiment framework for RecSys based on PyTorch.
   - Things that I'm into all the time: ⚽️  🎬  🎧  🧘🏻  ☕️
 
 ### Languages and Tools
